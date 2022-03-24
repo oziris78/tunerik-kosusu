@@ -1,0 +1,6 @@
+1- defense denildiğinde bir bug oluşuyor, eğer yaratık vurunca ölebiliyorsak ölüyoruz oysaki defense engelleyecek
+    büyük olasılıkla önce vuruyor sonra defense ortaya kaynıyor, engellemek için vururken defense'i göz önünde bulundurarak damage'i kendimize vermeliyiz
+
+2- sağ ve altta beyazlık gözükme bug'ı
+
+
