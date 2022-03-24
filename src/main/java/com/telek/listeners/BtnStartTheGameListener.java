@@ -34,8 +34,7 @@ public class BtnStartTheGameListener implements ActionListener {
             player.setChClass("knight");
             player.setMaxHealth(35);
             player.setCurHealth(player.getMaxHealth());
-            // hileYaptım
-            player.setMeleeDamage(12000); //12
+            player.setMeleeDamage(12);
             player.setRangedDamage(4);
             player.setEvade(5);
             player.setDefense(8);
