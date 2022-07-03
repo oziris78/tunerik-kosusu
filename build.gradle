@@ -3,7 +3,7 @@ plugins {
     id 'java'
 }
 
-group 'com.telek'
+group 'com.twistral'
 version '1.0.0'
 
 java{
@@ -17,13 +17,13 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.oziris78:better-swing:v0.0.2'
+    implementation 'com.github.oziris78:better-swing:v0.1.0'
 }
 
 
 jar {
     manifest {
-        attributes "Main-Class": 'com.telek.main.Main';
+        attributes "Main-Class": 'com.twistral.main.Main';
     }
     dependsOn ('dependencies')
 }
