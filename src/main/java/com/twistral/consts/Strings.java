@@ -69,7 +69,7 @@ public class Strings {
         strQuit  = "QUIT";
         // panCredits
         strBack = "BACK";
-        credits = "<html><pre>\n\n\nThis game was created by Telek Studios.\n" +
+        credits = "<html><pre>\n\n\n\n" +
                 "\n" +
                 "Programming : O\u011fuzhan Topalo\u011flu\n\n" +
                 "Design : O\u011fuzhan Topalo\u011flu\n\t Yunus Emre \u00c7ay</pre></html>";
